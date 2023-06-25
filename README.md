@@ -1,6 +1,6 @@
-# GRL-EXAM-TASK3-REPO
+# Graph Representation Learning Course
 
-TASK 3 FILES:
+Project featuring stochastic gradient scaling and its effect on regularisation
 
 models.ipynb - 4 model architectures used throughout experiments 
 
